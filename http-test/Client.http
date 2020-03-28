@@ -6,9 +6,9 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "firstName": "Miguel",
-  "lastName": "Vilca",
-  "birthDate": "1999-04-14T00:00:00.000-0000",
+  "firstName": "Juan",
+  "lastName": "Perez",
+  "birthDate": "1998-09-10T00:00:00.000-0400",
   "status": true
 }
 
